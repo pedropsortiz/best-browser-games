@@ -14,6 +14,6 @@ Below is a list of online browser games or any game-related websites where you c
 ## Card Games
 
 ### Uno
-  * [Uno](https://github.com/andreybutenko/uno) - Play Uno online with friends! [Play it now!](https://playuno.app)
+  * [Uno](https://playuno.app) - Play Uno online with friends!
 ### Cards Against Humanity
-  * [Bad Cards](https://bad.cards) - Pick one of the games and let the fun begin! Once you select a game, you can; choose your content rating, invite friends, share your cards on social media, and more! [Play it now!](https://bad.cards)
+  * [Bad Cards](https://bad.cards) - Pick one of the games and let the fun begin! Once you select a game, you can; choose your content rating, invite friends, share your cards on social media, and more! 
